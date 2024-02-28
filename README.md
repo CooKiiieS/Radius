@@ -1,5 +1,5 @@
 # Radius
-Installation & Configuration de client + serveur Radius
+Compte-rendu d'installation & configuration de client + serveur Radius
 
 Liens d'aide pour les différentes étapes
 
